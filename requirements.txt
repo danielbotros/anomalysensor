@@ -1,3 +1,2 @@
 viam-sdk
-random
 numpy
